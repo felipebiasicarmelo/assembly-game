@@ -1,0 +1,9 @@
+{
+    "countryCode": "EN",
+    "title": "Assembly game",
+    "description": "Try to guess the word, you have 8 lives",
+    "buttonToggleLanguage" : "EN",
+    "wonMessage" : "You Won !!!",
+    "LoseMessage" : "You Lost :(",
+    "theWordWas" : "The Word was: "
+}

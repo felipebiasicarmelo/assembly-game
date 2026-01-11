@@ -1,0 +1,9 @@
+{
+    "countryCode": "BR",
+    "title": "Jogo da Forca",
+    "description": "Tente acertar a palavra, você tem 8 vidas. Desconsidere acentuação e caracteres especiais",
+    "buttonToggleLanguage" : "PTBR",
+    "wonMessage" : "Você venceu !!!",
+    "LoseMessage" : "Você perdeu :(",
+    "theWordWas" : "A palavra era: "
+}
